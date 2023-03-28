@@ -1,0 +1,14 @@
+{
+  "name": "polling",
+  "description": "Polling example",
+  "main": "index.js",
+  "scripts": {
+    "short": "node short-polling.js",
+    "long": "node long-polling.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2",
+    "uuid": "9.0.0"
+  }
+}
